@@ -7,6 +7,7 @@ You can download "atm.cpp" from any of your folders.
 </br>
 
 ## 2. complie
+compile at your directory of downloaded </br>
 `$ g++ -o atm atm.cpp`
 
 </br>
